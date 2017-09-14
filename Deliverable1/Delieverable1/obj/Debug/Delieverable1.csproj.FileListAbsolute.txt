@@ -1,0 +1,7 @@
+C:\Users\ernes\source\repos\Delieverable1\Delieverable1\bin\Debug\Delieverable1.exe.config
+C:\Users\ernes\source\repos\Delieverable1\Delieverable1\bin\Debug\Delieverable1.exe
+C:\Users\ernes\source\repos\Delieverable1\Delieverable1\bin\Debug\Delieverable1.pdb
+C:\Users\ernes\source\repos\Delieverable1\Delieverable1\obj\Debug\Delieverable1.csprojResolveAssemblyReference.cache
+C:\Users\ernes\source\repos\Delieverable1\Delieverable1\obj\Debug\Delieverable1.csproj.CoreCompileInputs.cache
+C:\Users\ernes\source\repos\Delieverable1\Delieverable1\obj\Debug\Delieverable1.exe
+C:\Users\ernes\source\repos\Delieverable1\Delieverable1\obj\Debug\Delieverable1.pdb
